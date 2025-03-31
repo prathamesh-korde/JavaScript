@@ -1,0 +1,27 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    color: white;
+    border: 1px solid black;
+}
+#id_1{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+}
+#btn_3{
+    align-items: center;
+}
+
+.light{
+    background-color: white;
+    columns: black;
+}
+
+.dark{
+    background-color: black;
+    columns: white; 
+}
